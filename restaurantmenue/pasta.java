@@ -25,7 +25,7 @@ class Pasta implements FoodItem {
 		for (String i : ingredients) {
 			System.out.print(i + " ");
 		}
-		System.out.println("\n");
+		System.out.println("\n ");
 	}
 }
 
